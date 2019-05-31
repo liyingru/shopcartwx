@@ -1,0 +1,13 @@
+{
+    "pages": [
+        "pages/index/main",
+        "pages/logs/main",
+        "pages/counter/main"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#F8F3F0",
+        "navigationBarTitleText": "购物车",
+        "navigationBarTextStyle": "black"
+    }
+}
